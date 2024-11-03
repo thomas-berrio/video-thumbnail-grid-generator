@@ -1,8 +1,5 @@
 # Video Thumbnail Grid Generator
 
-## Project Name
-**ThumbyGrid**
-
 ## Demo ##
 ![alt demo.jpg](https://raw.githubusercontent.com/thomas-berrio/video-thumbnail-grid-generator/refs/heads/main/demo.jpg)
 
