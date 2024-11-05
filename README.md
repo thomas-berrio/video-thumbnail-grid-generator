@@ -1,10 +1,9 @@
 # Video Thumbnail Grid Generator
 
+ThumbyGrid is a Bash script that generates a grid of thumbnails from a video file. It allows you to easily capture evenly spaced frames from a video, customize thumbnail size, and format the output as a collage. This tool is particularly useful for video preview purposes, creating overview images for media libraries, or providing a visual summary of a video.
+
 ## Demo ##
 ![alt demo.jpg](https://raw.githubusercontent.com/thomas-berrio/video-thumbnail-grid-generator/refs/heads/main/demo.jpg)
-
-## Description
-ThumbyGrid is a Bash script that generates a grid of thumbnails from a video file. It allows you to easily capture evenly spaced frames from a video, customize thumbnail size, and format the output as a collage. This tool is particularly useful for video preview purposes, creating overview images for media libraries, or providing a visual summary of a video.
 
 ## Features
 - Extracts evenly distributed frames from a video.
